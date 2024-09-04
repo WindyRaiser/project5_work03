@@ -9,3 +9,5 @@
 4. 두번째 세션에서 branch work3에서 라인 추가
 
 5. 두번째 세션에에 branch work3에서 두번째 commit 처리
+
+6. branch work3에서 줄추가  8:19 
